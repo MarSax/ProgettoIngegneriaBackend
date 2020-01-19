@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/museoDB
+    username: Mark
+    password: Cvt56@ty
+    driver-class-name: com.mysql.jdbc.Driver
+    schema: schema.sql
+    data: data.sql
+    

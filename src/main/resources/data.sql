@@ -1,0 +1,2 @@
+INSERT IGNORE INTO Musei.Utente (Id,Nome,Cognome,Data_di_nascita,Luogo_di_nascita,Tipo,Email,Username,Password,Id_museo)
+VALUES (1,"Pippo","Franco", "1980-12-10","Bari","Amministratore","pippo.franco@hotmail.it","ADMIN","admin",NULL);
